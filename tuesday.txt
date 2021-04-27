@@ -1,5 +1,0 @@
-T3743,SUser starts working on homework,A,P,
-T4834,E,P,SUser take a break,P,
-T4950,SUser plays sudoku,A,P,
-T5200,E,A,SUser resumes homework,A,P,
-T7234,E,
