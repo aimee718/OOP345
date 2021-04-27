@@ -1,8 +1,0 @@
-T175,SComputer Starting,P,
-T200,P,E,P,
-T4534,A,SUser logging in,P,
-T4800,E,SAuthentication Failed,A
-T4809,E,SUser logging in,P,
-T5000,E,SBrowser starts,A,
-T32464,SBrowser closed,A,P,
-T63213,SUser checks email,A,P,
